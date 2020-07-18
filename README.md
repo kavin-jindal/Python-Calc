@@ -23,6 +23,20 @@ I have even added some extra operations which can help you like:
 
 - - > Cube
 
+# Python Version Support
+
+- - > Python3 Support is present. Make sure you have Python3 Installed.
+
+# Required Dependencies
+
+- - > Tkinter
+
+- - > Math
+
+- - > MpMath
+
+- - > Tkinter Fonts
+
 # Installation 
 
 --> In order to install my Calculator, simply use the git clone command in your terminal like this
@@ -44,5 +58,10 @@ In the next update, these new features will be added.
 
 # Report issues and bugs
 
-Email me for any bug report or any issue with my programs.
+**If you have any issues or bugs with the program, Please make sure to tell it to us so we can improve**
+
+**Report Them here or mail them to this mail.**
+
+    -> https://github.com/kavinjindal/Python-Calc/issues
+
 - - > kavinsjindal@gmail.com
