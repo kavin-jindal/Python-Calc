@@ -30,5 +30,5 @@ In the next update, these new features will be added.
 
 # Report issues and bugs
 
-Email me for any nug report or any issue with my programs.
+Email me for any bug report or any issue with my programs.
 --> kavinsjindal@gmail.com
