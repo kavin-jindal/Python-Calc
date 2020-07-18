@@ -23,6 +23,13 @@ I have even added some extra operations which can help you like:
 
 - - > Cube
 
+# Installation 
+
+--> In order to install my Calculator, simply use the git clone command in your terminal like this
+
+    -> git clone https://github.com/kavinjindal/Python-Calc.git
+    
+--> Or else you can download it as a zip file
 
 # Updates
 
