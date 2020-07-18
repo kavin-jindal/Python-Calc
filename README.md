@@ -62,6 +62,6 @@ In the next update, these new features will be added.
 
 **Report Them here or mail them to this mail.**
 
-    -> https://github.com/kavinjindal/Python-Calc/issues
+`https://github.com/kavinjindal/Python-Calc/issues`
 
 - - > kavinsjindal@gmail.com
