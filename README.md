@@ -45,6 +45,12 @@ I have even added some extra operations which can help you like:
     
 --> Or else you can download it as a zip file
 
+# More details
+
+ - > This program works with Windows os only.
+- > This calculator is coded in Python
+
+
 # Updates
 
 The calculator is being continously worked upon and more updates will come out soon in the future, 
