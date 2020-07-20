@@ -12,6 +12,10 @@ It was released on 19th July 2020.
 
 - > After you download the zip file, make sure to see the read me file. Python Calc.exe is the file on which you have to click to activate the program. It will take some seconds to start the program, but please wait. 
 
+--> In order to install my Calculator, simply use the git clone command in your terminal like this
+
+    -> git clone https://github.com/kavinjindal/Python-Calc.git
+
 # Screenshots
 
 will be available soon. 
@@ -50,15 +54,6 @@ I have even added some extra operations which can help you like:
 
 - - > MpMath
 
-- - > Tkinter Fonts
-
-# Installation 
-
---> In order to install my Calculator, simply use the git clone command in your terminal like this
-
-    -> git clone https://github.com/kavinjindal/Python-Calc.git
-    
---> Or else you can download it as a zip file
 
 # More details
 
