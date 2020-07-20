@@ -2,6 +2,11 @@
 Python Calc is my first program on which I have been working from the past month. It is the same like other calculators but is effective and can be used without any error.
 It was released on 19th July 2020.
 
+#  CHANGELOGS
+
+- > New bug fixed
+- > Source code file updated
+
 # Installation guides
 
 - > After you download the zip file, make sure to see the read me file. Python Calc.exe is the file on which you have to click to activate the program. It will take some seconds to start the program, but please wait. 
