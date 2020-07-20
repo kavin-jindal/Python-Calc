@@ -4,6 +4,7 @@ It was released on 19th July 2020.
 
 #  CHANGELOGS
 
+- > > Official software has been removed due to some errors and bug, the program will release on 21st July. 
 - > New bug fixed
 - > Source code file updated
 
