@@ -4,8 +4,7 @@ Python Calc is my first program on which I have been working from the past month
 
 #  CHANGELOGS
 
-- > Menu added
-- > New bug fixed
+- > Menu removed due to bugs
 - > Source code file updated
 
 
