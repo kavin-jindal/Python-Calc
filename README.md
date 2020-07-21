@@ -1,12 +1,13 @@
 # GUI CALCULATOR
 Python Calc is my first program on which I have been working from the past month. It is the same like other calculators but is effective and can be used without any error.
-It was released on 19th July 2020.
+
 
 #  CHANGELOGS
 
-- > > Official software has been removed due to some errors and bug, the program will release on 21st July. 
+- > Menu added
 - > New bug fixed
 - > Source code file updated
+
 
 # Installation guides
 
