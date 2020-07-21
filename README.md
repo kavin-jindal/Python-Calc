@@ -18,7 +18,7 @@ It was released on 19th July 2020.
 
 # Screenshots
 
-![](calculator.png)
+![](calculator.PNG)
 
 # Features
 
