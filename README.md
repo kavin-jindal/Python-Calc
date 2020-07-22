@@ -1,11 +1,11 @@
 # GUI CALCULATOR
 Python Calc is my first program on which I have been working from the past month. It is the same like other calculators but is effective and can be used without any error.
-
+The program is taking some time to start, this is happening due to some bugs, which will be fixed in the next upcoming update. 
 
 #  CHANGELOGS
 
-- > Menu removed due to bugs
-- > Source code file updated
+* Menu removed due to bugs
+* Source code file updated
 
 
 # Installation guides
@@ -72,6 +72,10 @@ In the next update, these new features will be added.
 - - > Tabs
 - - > More user-friendly GUI
 
+# Credits
+ * Programming, bug fixes by Kavin Jindal
+ * Software testing and optimization by Vedant Bhalgama
+
 # Report issues and bugs
 
 **If you have any issues or bugs with the program, Please make sure to tell it to us so we can improve**
@@ -81,3 +85,6 @@ In the next update, these new features will be added.
 `https://github.com/kavinjindal/Python-Calc/issues`
 
 - - > kavinsjindal@gmail.com
+
+# Follow me on my website
+ - https://kavinjindal17.wordpress.com/
