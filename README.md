@@ -4,6 +4,7 @@ The program is taking some time to start, this is happening due to some bugs, wh
 
 #  CHANGELOGS
 
+* Icon added to program
 * Menu removed due to bugs
 * Source code file updated
 
